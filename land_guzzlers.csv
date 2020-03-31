@@ -1,0 +1,8 @@
+title,footprint,subtitle,subtitle2,subtitle3,subtitle4,baseColor,highlightColor
+LARGE DOG,1.1,,,,Eco-footprint: 1.1 hectares, #A5620B, #844E08
+MEDIUM-SIZED DOG,0.84,CONSUMPTION PER YEAR,"164kg of meat, 95kg or cereals","43.3m2 of land per 1kg of chicken (more for beef and lamb), 13.4m2 of land per 1kg of cereals",Eco-footprint: 0.84 hectares,#C29657,	#9B7745
+TOYOTA LAND CRUISER,0.41,"10,000km DRIVEN PER YEAR",55.1 gigajoules (includes energy required to fuel and construct),,Eco-footprint: 0.41 hectares,#CC1F5E,#A3184C
+VOLKSWAGEN GOLF,0.18,,,,,#A71949, #851439
+CAT,0.15,,,,Eco-footprint: 0.15 hectares,#F7991D,#C57A17
+HAMSTER,0.014,Eco-footprint,0.014 hectares,,,#231F20,#4F4B4C
+
